@@ -1,1 +1,11 @@
-# IAWSs
+# Illegal Abandoned Waste Sites (IAWSs)
+This repository store data for the analysis of Illegal Abandoned Waste Sites (IAWSs) in an area in the south of Italy.
+The work provide a remote sensing pre-analysis and photo-interpretation, useful for a initial recognition of the material distribution within a large area. Consequently, a field survey results in 171 ground points intrested by illegal waste abandoned occurences. IAWSs were detected and, at each sampling sites, analysed by acquiring images, area occupied from waste, volumetric and material estimates.
+
+# VISUAL ANALYSIS OF THE MATERIALS (PRODUCT ANALYSIS)
+From a site inspection and photo reporting, images allows to classify through visual analysis the material that characterize the study sites.
+
+To offer a more comprehensive understanding of the scale of illegal dumping activities across the study area, a 2.5-dimensional volumetric perspective was provided by using the surface extent of the polluted area and the waste pile's mean height. Again, this activity involves ground-based images photointerpretation, aiming to detect and classify the different types of materials within the area of interest. Accordingly, different materials are identified along the study area, such as bulky (e.g., washing machine, fridge, oven, TV, hot water heater, furniture, bucket, chair, mattress, sofa), paperboard, garbage bag with clear packaging, garbage bag with no clear pack-aging, construction and demolition associated (e.g., excavation ground, C&D waste, bathroom fixture, pipes, insulation sheath, metal sheet, garden mowing, burned re-mains).
+
+# EXCEL-BASED SCENARIO
+To manage all these types of data, a structured Excel-based scenario analysis tool is provided, useful to process and analyze waste composition data efficiently. The tool leverages the back-ground data described in the previous sections and provides a structured approach to evaluating various waste management scenarios. By incorporating key parameters such as material density, weight distribution, and volume contributions, the tool al-lows users to assess the impact of different waste disposal strategies. The Excel-based model is designed to be user-friendly, enabling stakeholders to input new data, adjust key variables, and visualize results through automated calculations. Additionally, to ensure accessi
